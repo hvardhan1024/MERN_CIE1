@@ -76,9 +76,8 @@ graph TD
 
 **MVC (Model-View-Controller)** is a software design pattern that separates application logic into three interconnected components.
 
-mermaid
 
-````mermaid
+```mermaid
 graph LR
     A[User/Browser] --> B[Controller]
     B --> C[Model]
