@@ -417,6 +417,7 @@ Current Release (6 months) → Active LTS (18 months) → Maintenance LTS (12 mo
 
 Uses **single-threaded, event-driven, non-blocking I/O** model.
 
+<img width="800" height="401" alt="image" src="https://github.com/user-attachments/assets/fb4a5040-0f03-4711-8afc-a8f3da973439" />
 <<Javascript_Event_Loop_Architecture_Diagram>>
 
 ### Event-Driven Programming Example
